@@ -1,3 +1,3 @@
 # IGNITE_WEB_DEV
 
-Theoritical Questions are attempted by me but not Answered here.
+I attempted the theoretical questions, but I haven't answered them here.
